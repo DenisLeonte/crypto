@@ -1,0 +1,23 @@
+[main] crypt 1000 (0) exception: trapped!
+[main] crypt 1000 (0) exception: code 0xC0000005 at 0x6100CC47
+[main] crypt 1000 (0) exception: ax 0x400 bx 0x400 cx 0xA033000 dx 0x247F740
+[main] crypt 1000 (0) exception: si 0x208 di 0x247F548 bp 0x247FB48 sp 0x247F51C
+[main] crypt 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] crypt 1000 (0) stack: Stack trace:
+[main] crypt 1000 (0) stack: frame 0: sp = 0x247EEA8, pc = 0x6100A2C3
+[main] crypt 1000 (0) stack: frame 1: sp = 0x247EEE4, pc = 0x77DA71E2
+[main] crypt 1000 (0) stack: frame 2: sp = 0x247EF08, pc = 0x77DA71B4
+[main] crypt 1000 (0) stack: frame 3: sp = 0x247EFD4, pc = 0x77D93B36
+[main] crypt 1000 (0) stack: frame 4: sp = 0x247FB48, pc = 0x6103070C
+[main] crypt 1000 (0) stack: frame 5: sp = 0x247FB78, pc = 0x61059FB4
+[main] crypt 1000 (0) stack: frame 6: sp = 0x247FB8C, pc = 0x40EFD0
+[main] crypt 1000 (0) stack: frame 7: sp = 0x247FBAC, pc = 0x40CE70
+[main] crypt 1000 (0) stack: frame 8: sp = 0x247FBC0, pc = 0x40EA86
+[main] crypt 1000 (0) stack: frame 9: sp = 0x247FBF0, pc = 0x40F12C
+[main] crypt 1000 (0) stack: frame 10: sp = 0x247FC40, pc = 0x40CEAC
+[main] crypt 1000 (0) stack: frame 11: sp = 0x247FC54, pc = 0x40357B
+[main] crypt 1000 (0) stack: frame 12: sp = 0x247FC70, pc = 0x41B83A
+[main] crypt 1000 (0) stack: frame 13: sp = 0x247FC84, pc = 0x401497
+[main] crypt 1000 (0) stack: frame 14: sp = 0x247FED4, pc = 0x401B05
+[main] crypt 1000 (0) stack: frame 15: sp = 0x247FEEC, pc = 0x401B4A
+[main] crypt 1000 (0) stack: End of stack trace (more stack frames may be present)
